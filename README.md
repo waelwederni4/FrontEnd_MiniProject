@@ -8,10 +8,10 @@ FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
 <br>
 BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 ## Development server
-1.`cd FrontEnd_MiniProject`
-2.Run `npm install`
-3.Run `ng serve`
-4.Navigate to `http://localhost:4200/`.
+1. `cd FrontEnd_MiniProject`
+2. Run `npm install`
+3. Run `ng serve`
+4. Navigate to `http://localhost:4200/`.
 
 # ScreenShots
 ![1](https://user-images.githubusercontent.com/38885637/98701390-838cf480-2379-11eb-95cd-57ddaecca992.png)
