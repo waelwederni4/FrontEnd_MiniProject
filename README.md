@@ -7,6 +7,12 @@ This is a Project angular 10 crud application example with web api With server B
 FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
 <br>
 BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
+## Development server
+1.`cd FrontEnd_MiniProject`
+2.Run `npm install`
+3.Run `ng serve`
+4.Navigate to `http://localhost:4200/`.
+
 # ScreenShots
 ![1](https://user-images.githubusercontent.com/38885637/98701390-838cf480-2379-11eb-95cd-57ddaecca992.png)
 ![2](https://user-images.githubusercontent.com/38885637/98701479-9e5f6900-2379-11eb-883c-7ab771183cfe.png)
@@ -15,14 +21,3 @@ BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 ![5](https://user-images.githubusercontent.com/38885637/98701490-a0c1c300-2379-11eb-805a-08ebcd5679f7.png)
 ![6](https://user-images.githubusercontent.com/38885637/98701494-a1f2f000-2379-11eb-860d-144e5c3ea66f.png)
 ![7](https://user-images.githubusercontent.com/38885637/98701500-a3241d00-2379-11eb-87b2-b2f1b422bef2.png)
-
-## Development server
-<br>
-1)cd `FrontEnd_MiniProject`
-<br>
-2)Run `npm install`
-<br>
-3)Run `ng serve` for a dev server.
-<br>
-4)Navigate to `http://localhost:4200/`.
-
