@@ -1,8 +1,11 @@
 ![16516842691536125757-512](https://user-images.githubusercontent.com/38885637/98701814-fa29f200-2379-11eb-9c99-8ff80f2b05eb.png)
 # MiniProject
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+<br>
 This is a Project angular 10 crud application example with web api With server Backend Nodejs :
+<br>
 FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
+<br>
 BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 # ScreenShots
 ![1](https://user-images.githubusercontent.com/38885637/98701390-838cf480-2379-11eb-95cd-57ddaecca992.png)
@@ -14,8 +17,12 @@ BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 ![7](https://user-images.githubusercontent.com/38885637/98701500-a3241d00-2379-11eb-87b2-b2f1b422bef2.png)
 
 ## Development server
+<br>
 1)cd `FrontEnd_MiniProject`
+<br>
 2)Run `npm install`
+<br>
 3)Run `ng serve` for a dev server.
+<br>
 4)Navigate to `http://localhost:4200/`.
 
