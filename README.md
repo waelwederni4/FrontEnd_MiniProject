@@ -1,7 +1,9 @@
 ![16516842691536125757-512](https://user-images.githubusercontent.com/38885637/98701814-fa29f200-2379-11eb-9c99-8ff80f2b05eb.png)
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 # MiniProject
-this is the part FrontEnd Of Project angular 10 crud application example with web api
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This is a Project angular 10 crud application example with web api With server Backend Nodejs :
+FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
+BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 # ScreenShots
 ![1](https://user-images.githubusercontent.com/38885637/98701390-838cf480-2379-11eb-95cd-57ddaecca992.png)
 ![2](https://user-images.githubusercontent.com/38885637/98701479-9e5f6900-2379-11eb-883c-7ab771183cfe.png)
